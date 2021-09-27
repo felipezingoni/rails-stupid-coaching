@@ -1,0 +1,13 @@
+ .banner {
+   background: rgb(113, 168, 161);
+   h1 {
+     font-size: 50px;
+   }
+ }
+
+  a {
+   color: grey;
+   &:hover {
+     color: black;
+   }
+ }
